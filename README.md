@@ -1,2 +1,3 @@
-# Password-Generator-Application
-Created a password Generator web application, aims to generate a unique, secure and strong random password for users.
+# Password Generator Application
+Introducing our Password Generator web app, crafted to deliver unique, secure, and robust random passwords. With customizable options for length and character types, users can tailor passwords to their needs. Featuring a sleek interface, it provides instant strength indicators and one-click copy-to-clipboard functionality. Prioritizing user privacy, all generation processes are client-side, ensuring data confidentiality. Whether on desktop or mobile, enjoy cross-platform compatibility seamlessly. Safeguard your online accounts with confidence using our Password Generator.
+Tech stacks: HTML, CSS, JavaScript
